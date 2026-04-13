@@ -6,10 +6,10 @@ Identifies failed logins and outputs IP address of failed login and amount of fa
 
 
 Future updates:
-
-Potential Attack types based on timing/quantity of failed logins
-
-
-
+CLI arguments 
 Minimalistic GUI
+Attack types 
+
+<img width="203" height="149" alt="image" src="https://github.com/user-attachments/assets/ed9c4474-b27d-41cc-87ce-8ea8cdf4b85e" />
+
 
